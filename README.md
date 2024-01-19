@@ -9,15 +9,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaitokimuraofficial" alt="kaitokimuraofficial" /></a> </p>
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kaito-kimura-03b88b21a/" target="blank">
-    <img align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="kaito kimura" 
-      height="30" width="40" />
-  </a>
+  <h3 align="left">Connect with me!</h3>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/kaito-kimura-03b88b21a/" target="blank">
+      <img align="center" 
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+        alt="kaito kimura" 
+        height="30" width="40" />
+    </a>
+  </p>
+
+  <h3 align="left">Atcoder</h3>
+  <p align="left">
+    <a href="https://atcoder.jp/users/kaitokimura" target="blank">
+      <img align="center" 
+        src="http://www.google.com/s2/favicons?domain=https://atcoder.jp/users/kaitokimura" 
+        alt="kaito kimura" 
+        height="30" width="40" />
+    </a>
+  </p>
 </p>
 
 
@@ -53,16 +64,13 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
       alt="javascript" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.java.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+      alt="java" width="40" height="40"/> 
+  </a>
 </p>
 
-
-### Editor
-<img src="https://www.autumn-color.com/wp-content/uploads/2018/04/vscode.png" width=16 /> Visual Studio Code
-
-### OS
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/apple/apple-original.svg" width=16 /> Mac OS
-<img src="https://img.icons8.com/color/48/000000/windows-10.png" width=16/> Windows
 
 
 ### Frontend Development
@@ -125,10 +133,16 @@
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" 
       alt="rails" width="40" height="40"/> 
-  </a> 
+  </a>
     
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" 
       alt="nextjs" width="40" height="40"/> 
-  </a> 
+  </a>
+
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> 
+    <img src="http://www.google.com/s2/favicons?domain=https://flask.palletsprojects.com/en/3.0.x/" 
+      alt="flask" width="40" height="40"/> 
+  </a>
+  </a>
 </p>
