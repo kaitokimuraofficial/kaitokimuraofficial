@@ -144,5 +144,4 @@
     <img src="http://www.google.com/s2/favicons?domain=https://flask.palletsprojects.com/en/3.0.x/" 
       alt="flask" width="40" height="40"/> 
   </a>
-  </a>
 </p>
