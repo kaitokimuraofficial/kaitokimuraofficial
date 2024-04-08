@@ -131,6 +131,10 @@
 <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
 </a>
+<!-- Terraform -->
+<a href="https://developer.hashicorp.com/terraform/docs" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+</a>
 
 #### Editor
 <!-- GoLand -->
