@@ -1,8 +1,8 @@
 <!-- Header -->
-## Hi, This is My Profile 😎
+## Welcome my GitHub page 😎
 
 <!-- mini-profile -->
-### Check who I am
+### who I am
 🇯🇵 **Japanese**
 
 🎓 **currently going to Waseda University**
@@ -13,7 +13,7 @@
 
 🌇 **living in Tokyo**
 
-🏷 **have strong interest in Infrastructure and SRE jobs**
+🏷 **have a strong interest in Infrastructure jobs**
 
 
 ## 🧢 Tech stack
