@@ -1,5 +1,5 @@
 <!-- Header -->
-## Welcome my GitHub page 😎
+## Welcome to my GitHub page 😎
 
 <!-- mini-profile -->
 ### who I am
