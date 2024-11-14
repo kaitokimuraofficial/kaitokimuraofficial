@@ -13,7 +13,7 @@
 
 🌇 **live in Tokyo, Japan**
 
-🏷 **have a strong interest in Tech!**
+🥁 **make music sometime!**
 
 <!-- contact -->
 ### 😼 Contact Me!
